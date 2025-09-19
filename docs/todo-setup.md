@@ -1,10 +1,10 @@
 # Plano de Setup - Fase de Configuração Base
 
 ## Visão Geral
-Configuração inicial do projeto Next.js 14 com TypeScript e dependências essenciais, estabelecendo a base para todo o desenvolvimento posterior.
+Configuração inicial do projeto Next.js 15 com TypeScript e dependências essenciais, estabelecendo a base para todo o desenvolvimento posterior.
 
 ## Objetivos da Fase
-- Inicializar projeto Next.js 14 com TypeScript
+- Inicializar projeto Next.js 15 com TypeScript
 - Configurar ferramentas de desenvolvimento
 - Instalar dependências essenciais
 - Criar estrutura de diretórios base
@@ -12,7 +12,7 @@ Configuração inicial do projeto Next.js 14 com TypeScript e dependências esse
 ## Tarefas Detalhadas
 
 ### 1. Inicialização do Projeto
-- [ ] Criar novo projeto Next.js 14 com TypeScript
+- [ ] Criar novo projeto Next.js 15 com TypeScript
 - [ ] Configurar package.json com scripts necessários
 - [ ] Configurar tsconfig.json para strict mode
 - [ ] Configurar ESLint e Prettier
@@ -59,7 +59,7 @@ Configuração inicial do projeto Next.js 14 com TypeScript e dependências esse
 - [ ] Documentar setup inicial
 
 ## Entregáveis Esperados
-- Projeto Next.js 14 inicializado e configurado
+- Projeto Next.js 15 inicializado e configurado
 - Todas as dependências instaladas
 - Estrutura de diretórios criada
 - Configurações básicas funcionais
@@ -71,7 +71,3 @@ Configuração inicial do projeto Next.js 14 com TypeScript e dependências esse
 3. Tailwind CSS configurado
 4. Estrutura de diretórios consistente
 
-## Referências
-- Baseado na estrutura definida em docs/todo.md
-- Alinhado com requisitos dos módulos auditados
-- Segue melhores práticas Next.js 14 App Router
