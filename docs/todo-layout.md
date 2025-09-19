@@ -94,13 +94,3 @@ Implementação do sistema de layout global, componentes UI base e componentes d
 3. Sistema de navegação intuitivo
 4. Tema escuro consistente e acessível
 
-## Referências
-- Baseado nos padrões identificados nas auditorias dos módulos
-- Segue padrões do shadcn/ui para componentes
-- Alinhado com estrutura definida em docs/todo.md
-
-## Notas de Implementação
-- Todos os módulos auditados usam tema escuro
-- Priorizar acessibilidade e navegação por teclado
-- Implementar loading states consistentes
-- Garantir responsividade em todos os breakpoints
